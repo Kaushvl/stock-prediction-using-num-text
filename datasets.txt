@@ -1,0 +1,2 @@
+stock data :- https://finance.yahoo.com/quote/%5EBSESN/history/
+news data :- https://bit.ly/36fFPI6
